@@ -15,11 +15,11 @@ NodeJS: v16.11.0
  > • [youtube-dl-exec](https://www.npmjs.com/package/youtube-dl-exec) • [ytdl-core](https://www.npmjs.com/package/ytdl-core)
 
 ### 🌐 Join My Community and my own server:
-• [FNaF Multiverse](https://bit.ly/DiscordFM)
+• [FNaF Multiverse](https://bit.ly/DiscordFM)\n
 • [Henry's Community](https://bit.ly/Henry_Discord)
 
 ### 📲 Some my connection platforms
-• [YouTube](https://www.youtube.com/channel/UCSx4A24kzZp7fPTs6T4iuHA)
-• [Instagram](https://bit.ly/Henry_Instagram)
-• [Twitter](https://bit.ly/Henry_Twitter)
-• [Twitch](https://bit.ly/Henry_Twitch)
+• [YouTube](https://www.youtube.com/channel/UCSx4A24kzZp7fPTs6T4iuHA)\n
+• [Instagram](https://bit.ly/Henry_Instagram)\n
+• [Twitter](https://bit.ly/Henry_Twitter)\n
+• [Twitch](https://bit.ly/Henry_Twitch)\n
