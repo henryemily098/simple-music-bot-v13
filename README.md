@@ -4,7 +4,7 @@ This is a simple bot music repository. Its creation comes from the following you
 For anyone who sees this, you can change without including credit at all because the code I provide here is open source code.
 
 ## 🛠 Installation
-NodeJS v13
+NodeJS: v16.11.0
 
 ## 🗃 Package
  > • [discord.js](https://discord.js.org/?source=post_page---------------------------#/) • [dotenv](https://www.npmjs.com/package/dotenv)
