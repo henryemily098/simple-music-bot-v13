@@ -41,7 +41,7 @@ client.on("ready", () => {
 });
 
 client.on("interactionCreate", async(interaction) => {
-    if(interaction.isCommand) {
+    if(interaction.isCommand()) {
         const command = client.slashCommands.get(interaction.commandName);
         if(command) {
             const value = interaction.options.getString("input");
