@@ -1,6 +1,6 @@
 # simple-music-bot-v13
 
-This is a simple bot music repository. Its creation comes from the following youtube video: *coming soon*<br>
+This is a simple bot music repository. Its creation comes from the following youtube video: https://youtu.be/2RYbc4DEo8A<br><br>
 For anyone who sees this, you can change without including credit at all because the code I provide here is open source code.
 
 ## 🛠 Installation
