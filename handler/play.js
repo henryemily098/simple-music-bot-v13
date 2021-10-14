@@ -62,7 +62,7 @@ module.exports.play = async(song, interaction, client) => {
         })
         .on("error", (error) => {
             console.log(error);
-            if(playingMessage && playingMessage.deleted) 
+            if(playingMessage && !playingMessage.deleted) 
                 playingMessage.delete().catch(console.error);
 
             if(queue.loop) {
